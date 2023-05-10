@@ -1,1 +1,1 @@
-"hi"
+Java Battleship GUI
